@@ -13,7 +13,7 @@
           },
           "vSRXimage": {
               "Type": "String",
-              "Default": "ami-0665fcb24d58c88f4",
+              "Default": "ami-0081c1b6ed588c82e",
               "Description": "vSRX images used, BYOL, or PAYG"
           },
           "Debimage": {
